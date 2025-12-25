@@ -1,15 +1,15 @@
-# Linear-Regression-Project-
+# HomeValue
 ## House Price Prediction using Machine Learning
 
 This project uses machine learning algorithms to predict house prices based on various features using a dataset (like that from Kaggle). The workflow includes exploratory data analysis (EDA), preprocessing, model training, and evaluation.
 
-## 📂 Project Structure
+## Project Structure
 
 - `House Price Prediction.ipynb` - Main Jupyter notebook with the full code.
 - `LICENSE` - License file (MIT License).
 - `README.md` - Project overview and instructions.
 
-## 🔍 Features
+## Features
 
 - Exploratory Data Analysis (EDA)
 - Data Preprocessing & Cleaning
@@ -17,7 +17,7 @@ This project uses machine learning algorithms to predict house prices based on v
 - Model Evaluation using metrics like RMSE, R² score
 - Visualizations with Seaborn and Matplotlib
 
-🔧 Technologies Used
+## Technologies Used
 - Programming Language: Python 3.9+
 
 - Environment: Jupyter Notebook
@@ -34,7 +34,7 @@ This project uses machine learning algorithms to predict house prices based on v
 - seaborn
 - scikit-learn
 - jupyter
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -70,9 +70,9 @@ Open House Price Prediction.ipynb in your browser and run the cells.
 - R² Score: 0.65 (on test data)
 (Based on current model configuration)
 
-## 📃 License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙋‍♂️ Author
+## Author
 RAVINDRAN S
 AI/ML Enthusiast 
